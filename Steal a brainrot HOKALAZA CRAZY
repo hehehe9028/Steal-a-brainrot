@@ -6,7 +6,7 @@ local TextService = game:GetService("TextService")
 local StarterGui = game:GetService("StarterGui")
 
 -- Constants
-local DISCORD_LINK = "https://discord.gg/MFRtEsKm"
+local DISCORD_LINK = "https://discord.gg/4myWDtW8yj"
 local CORRECT_KEY = "crazy"
 
 -- Main GUI
